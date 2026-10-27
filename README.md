@@ -1,2 +1,3 @@
-# stoicheia
-A semantic edition of Euclid's Elements
+# `stoicheia`
+
+A semantic edition of Euclid's *Elements*.
